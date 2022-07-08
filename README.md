@@ -1,6 +1,6 @@
 ## Olá! Meu nome é João Lucas
 
-- 🔭 Desenvolvedor Front-End
+- 🔭 Estudante/Desenvolvedor Full-Stack
 - 🌱 Atualmente estou estudando Node.js e aprofundando meus conhecimentos no Back-End
 
 <div align="center">
