@@ -1,7 +1,7 @@
 ## Olá! Meu nome é João Lucas
 
 - 🔭 Estudante/Desenvolvedor 
-- 🌱 Atualmente estou estudando Node.js e aprofundando meus conhecimentos no Back-End
+- 🌱 Atualmente estou estudando React Native e aprofundando meus conhecimentos em desenvolvimento mobile
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
