@@ -1,11 +1,13 @@
 ## Olá! Meu nome é João Lucas
 
 - 🔭 Estudante/Desenvolvedor 
-- 🌱 Atualmente estou estudando React Native e aprofundando meus conhecimentos em desenvolvimento mobile
+- 🌱 Estudando React e Typescript
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/joaolucastorres">
   <img src="https://github-readme-stats.vercel.app/api?username=joaolucastorres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
  
  <div style="display: inline_block"><br>
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
