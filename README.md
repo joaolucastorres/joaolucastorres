@@ -1,7 +1,7 @@
 ## Olá! Meu nome é João Lucas
 
 - 🔭 Estudante/Desenvolvedor 
-- 🌱 Estudando React e Typescript
+- 🌱 Estudando Java
 <br>
 <div align="center">
   <a href="https://github.com/joaolucastorres">
