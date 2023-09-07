@@ -2,7 +2,7 @@
 
 - 🔭 Estudante/Desenvolvedor 
 - 🌱 Estudando Spring Boot
-- ✅ <a href="https://joaolucastorres.github.io/portfolio">Meu portfólio</a>
+- ✅ <a href="https://joaolucastorres.github.io/portfolio" target="_blank">Meu portfólio</a>
 <br>
 <div align="center">
   <a href="https://github.com/joaolucastorres">
