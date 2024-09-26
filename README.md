@@ -4,7 +4,7 @@
 - 📈 Trabalhando na <a href="https://certificacoesgdol.com.br/" target="_blank">GDOL</a>
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>
 - 🌱 Me aprofundado em React, .NET e SQL
-- ✅ <a href="https://joaolucastorres.github.io/portfolio" target="_blank">Meu portfólio</a>
+- ✅ <a href="https://joaolucastorres.github.io/portfolio" target="_blank">Meu portfólio (desatualizado)</a>
 <br>
 <div align="center">
   <a href="https://github.com/joaolucastorres">
