@@ -1,6 +1,6 @@
 ## Olá! Meu nome é João Lucas
 
-- 🔭 Desenvolvedor FullStack
+- 🔭Analista de TI
 - 📈 Trabalhando na <a href="https://itabirito.mg.gov.br/" target="_blank">Prefeitura de Itabirito</a>
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>
 - 🌱 Me aprofundado em React, .NET e SQL
